@@ -1,6 +1,7 @@
 # join_txt_label
 join text to text
 type this ======> python join_img_label.py <=======
+it has option -i [file name]
 
 # example - original
 가나다라마바  
